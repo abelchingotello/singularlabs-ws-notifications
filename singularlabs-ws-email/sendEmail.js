@@ -2,6 +2,7 @@ const nodemailer = require("nodemailer");
 
 const sendEmail = async (host, port, user, password, to, subject, text, html, attachments) => {
 
+    
     const config = {
         host: host,
         port: port,

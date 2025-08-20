@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "HostEmail": "bWFpbC5hZ2VudGVjYXNoLmNvbQ==",
+        "Port": "NDY1",
+        "User": "bm9yZXNwb25kZXJAYWdlbnRlY2FzaC5jb20=",
+        "Password": "TTR0cjF4MjAxOA==",
+        "SSL": "dHJ1ZQ=="
+    },
+    "body": "{\"to\": \"cristhian.codl.10@gmail.com\", \"subject\": \"Asunto2\", \"text\": \"Prueba de envio\"}"
+}
